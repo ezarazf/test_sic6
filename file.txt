@@ -1,3 +1,6 @@
 SMA NEGERI 106 JAKARTA BAIQ DOELOE 
 
 TEST
+
+
+Added physics function
